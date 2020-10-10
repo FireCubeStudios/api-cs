@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api CSharp", "Api CSharp\Api CSharp.csproj", "{BADB7070-423E-4F44-832B-C250E9CF1671}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xstore cs api", "xstore cs api\xstore cs api.csproj", "{1137A1DF-1B97-4D2C-8CF3-2B9072FB0989}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BADB7070-423E-4F44-832B-C250E9CF1671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BADB7070-423E-4F44-832B-C250E9CF1671}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BADB7070-423E-4F44-832B-C250E9CF1671}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BADB7070-423E-4F44-832B-C250E9CF1671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1137A1DF-1B97-4D2C-8CF3-2B9072FB0989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1137A1DF-1B97-4D2C-8CF3-2B9072FB0989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1137A1DF-1B97-4D2C-8CF3-2B9072FB0989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1137A1DF-1B97-4D2C-8CF3-2B9072FB0989}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
